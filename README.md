@@ -18,21 +18,21 @@ Mobile-First Development Approach
 
 View all countries with flag, population, region, and capital
 
-Search countries by name
+1. Search countries by name
 
-Filter countries by region
+2. Filter countries by region
 
-Detailed page for each country
+3. Detailed page for each country
 
-Navigate to border countries
+4. Navigate to border countries
 
-Fully responsive (mobile-first design)
+5. Fully responsive (mobile-first design)
 
-Clean UI components using Tailwind + Headless UI
+6. Clean UI components using Tailwind + Headless UI
 
 🔧 Installation & Setup
-git clone https://github.com/username/rest-countries.git
-cd rest-countries
+
+1. git clone https://github.com/username/rest-countries.git
 
 Install dependencies:
 
@@ -55,3 +55,29 @@ This project uses the official REST Countries API:
 https://restcountries.com/v3.1/all
 https://restcountries.com/v3.1/name/{name}
 https://restcountries.com/v3.1/alpha/{code}
+
+🎨 Styling
+
+1. Built entirely with Tailwind CSS
+
+2. Utility-first styling
+
+3. Component-driven UI
+
+4. Mobile-first layout
+
+5. Headless UI for accessible and customizable components (dropdowns, etc.)
+
+🧱 Core Components
+
+1. Navbar
+
+2. SearchBar
+
+3. RegionFilter (Headless UI)
+
+4. CountryCard
+
+5. CountryDetail Page
+
+6. ThemeSwitcher
